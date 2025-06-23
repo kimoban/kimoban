@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Isaiah Kimoban</h1>
 
 <p align="center">
-  <i>Aspiring Full-Stack Developer | ALX ProDev Learner | Passionate Problem Solver</i>
+  <i>Full-Stack Developer in Training| ALX ProDev Learner | Passionate about Tech-Driven Impact</i>
 </p>
 
 ## 🚀 About Me
