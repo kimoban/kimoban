@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**kimoban/kimoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an Airbnb Clone Project as a software developer.
 - 🌱 I’m currently learning ProDev Front-End and Back-End with ALX.
 - 👯 I’m looking to collaborate on open-source projects, web development teams, and any innovative software that solves real-world problems.
