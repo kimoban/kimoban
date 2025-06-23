@@ -66,5 +66,5 @@ I’m open to collaborate on:
 
 ## 📫 How to Reach Me
 📧 Email: isaiahkimoban87@gmail.com  
-💼 LinkedIn: linkedin.com/in/kimoban  
-🐙 GitHub: github.com/Kimoban
+💼 LinkedIn: linkedin.com/in/kimoban   
+🐙 GitHub: github.com/Kimoban 
