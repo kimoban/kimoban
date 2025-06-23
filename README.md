@@ -34,6 +34,38 @@ I’m a dedicated learner currently pursuing both **ALX ProDev Front-End** and *
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF"/>
 </p>
 
+## 🔭 Current Projects
+🏠 Airbnb Clone – Backend development with Django & MySQL
+
+📈 Graph Visualization Tool – Teaching quadratic graph plotting with dynamic interactivity
+
+📡 AI-Driven Intrusion Detection for 5G Networks – Using Transfer Learning & Reinforcement Learning
+
+## 📚 What I'm Learning
+Advanced Django patterns and authentication
+
+API Security best practices (JWT, OAuth2)
+
+GraphQL and modern query languages
+
+DevOps tools (Docker, GitHub Actions)
+
+## 🤝 Let's Collaborate
+I’m open to collaborate on:
+
+🚀 Frontend + Backend projects with real-world impact
+
+🧠 AI-integrated backend systems
+
+🎓 Educational tools and open-source learning platforms
+
+🌍 Tech-for-good and community-first applications
+
+## 📫 How to Reach Me
+📧 Email: isaiah.kimoban@example.com
+💼 LinkedIn: linkedin.com/in/kimoban-isaiah
+🐙 GitHub: github.com/KimobanIsaiah
+
 - 🔭 I’m currently working on an Airbnb Clone Project as a software developer.
 - 🌱 I’m currently learning ProDev Front-End and Back-End with ALX.
 - 👯 I’m looking to collaborate on open-source projects, web development teams, and any innovative software that solves real-world problems.
