@@ -4,6 +4,10 @@
   <i>Full-Stack Developer in Training| ALX ProDev Learner | Passionate about Tech-Driven Impact</i>
 </p>
 
+<p align="center">
+  <img src="https://github.com/kimoban/banner-placeholder.png" alt="Banner" width="100%" />
+</p>
+
 ## 🚀 About Me
 
 I’m a dedicated learner currently pursuing both **ALX ProDev Front-End** and **ProDev Back-End** tracks. My journey into software engineering began with a deep curiosity about how websites and digital experiences are built. I’m inspired by the power of code to bring ideas to life — crafting intuitive user interfaces on the front end and building resilient, secure systems on the back end.
