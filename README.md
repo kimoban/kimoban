@@ -4,6 +4,8 @@
   <i>Full-Stack Developer in Training| ALX ProDev Learner | Passionate about Tech-Driven Impact</i>
 </p>
 
+![some image](https://github.com/kimoban/banner-placeholder.png)
+
 <p align="center">
   <img src="https://github.com/kimoban/banner-placeholder.png" alt="Banner" width="100%" />
 </p>
