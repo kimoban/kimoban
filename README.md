@@ -33,6 +33,7 @@ I’m a dedicated learner currently pursuing both **ALX ProDev Front-End** and *
   <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=F05032"/>
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF"/>
 </p>
+```
 
 ## 🔭 Current Projects
 🏠 Airbnb Clone – Backend development with Django & MySQL
