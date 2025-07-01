@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/kimoban/banner-placeholder.png" alt="Banner" width="100%" />
+  <img src="https://github.com/kimoban/banner-placeholder.png" alt="" width="100%" />
 </p>
 
 ## 🚀 About Me
