@@ -28,18 +28,8 @@ I’m a dedicated learner currently pursuing both **ALX ProDev Front-End** and *
 ---
 
 ## 🧠 Tech Stack
-
-```html
-<!-- This section uses badges for visual flair -->
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61dafb"/>
-  <img src="https://img.shields.io/badge/Backend-Django-informational?style=flat&logo=django&logoColor=white&color=092e20"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1"/>
-  <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=F05032"/>
-  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF"/>
-</p>
-```
+### Front-End: HTML | CSS |
+### Back-End: Node.js |
 
 ## 🔭 Current Projects
 🏠 Airbnb Clone – Backend development with Django & MySQL
