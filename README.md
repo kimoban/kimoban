@@ -59,6 +59,4 @@ I’m open to collaborate on:
 🌍 Tech-for-good and community-first applications
 
 ## 📫 How to Reach Me
-📧 Email: isaiahkimoban87@gmail.com  
-💼 LinkedIn: linkedin.com/in/kimoban   
-🐙 GitHub: github.com/Kimoban 
+📧 Email: isaiahkimoban87@gmail.com
