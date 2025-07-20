@@ -28,7 +28,7 @@ I’m a dedicated learner currently pursuing both **ALX ProDev Front-End** and *
 ---
 
 ## 🧠 Tech Stack
-### Front-End: HTML | CSS |
+### Front-End: HTML | CSS | Python.py
 ### Back-End: Node.js |
 
 ## 🔭 Current Projects
