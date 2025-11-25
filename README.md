@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Isaiah Kimoban</h1>
+<h1 align="center">Hi there 👋, Isaiah Kimoban Here!</h1>
 
 <p align="center">
-  <i>Full-Stack Developer in Training| ALX ProDev Learner | Passionate about Tech-Driven Impact</i>
+  <i>Full-Stack Developer| ALX ProDev Learner | Passionate about Tech-Driven Impact</i>
 </p>
 
 <p align="center">
