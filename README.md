@@ -12,7 +12,7 @@
 
 I'm a full-stack developer passionate about crafting clean, responsive, engaging user interfaces, building clean databases and server logic. I’m seeking junior roles, freelance gigs, and opportunities to contribute, grow, and build alongside passionate teams. Let’s connect if you’re looking for someone eager to turn vision into code—and bring great ideas to life.  
 
-🔍 **Currently open to full-time roles** in Full-Stack, Backend, or Frontend Engineering where I can contribute real value from day one.
+🔍 **Currently open to full-time roles** in Full-Stack, Backend, or Frontend Engineering where I can contribute real value to projects.
 
 ---
 
