@@ -10,24 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Software Engineer** who has completed both the **ALX ProDev FrontEnd** and **ProDev BackEnd** programs. My journey into software engineering began with a deep curiosity about how websites and digital experiences are built — and it has grown into a professional commitment to delivering high-quality, production-ready software.
-
-I bring hands-on experience building and shipping web applications across the full stack: crafting intuitive user interfaces on the front end and designing resilient, secure systems on the back end.
-
-💡 What drives me is **bridging design with functionality** — turning complex technical problems into seamless, meaningful user experiences.
-
-🌟 **My mission** is to build **impact-driven digital products** that empower communities, streamline daily life, and make technology accessible to everyone, especially in underrepresented regions.
+I'm a full-stack developer passionate about crafting clean, responsive, engaging user interfaces, building clean databases and server logic. I’m seeking junior roles, freelance gigs, and opportunities to contribute, grow, and build alongside passionate teams. Let’s connect if you’re looking for someone eager to turn vision into code—and bring great ideas to life.  
 
 🔍 **Currently open to full-time roles** in Full-Stack, Backend, or Frontend Engineering where I can contribute real value from day one.
-
-⚡ Fun fact: I started learning to code to build my own startup idea, and now I'm hooked on clean UI design and optimized backend architecture!
-
-🛠️ I enjoy building:
-- Scalable web applications (Django, Node.js, React)
-- Secure REST & GraphQL APIs
-- Interactive, responsive UIs with great user experience
-- Open-source tools and community-driven projects
-- Solutions that address real-world problems
 
 ---
 
@@ -35,20 +20,8 @@ I bring hands-on experience building and shipping web applications across the fu
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Miro](https://img.shields.io/badge/miro-F2C811?style=for-the-badge&logo=miro&logoColor=orange) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-## 🔭 Featured Projects
-
-🏠 **Airbnb Clone** – Full-stack rental platform built with Django & MySQL, featuring user authentication, property listings, and booking management
-
-📈 **Graph Visualization Tool** – Interactive quadratic graph plotter for educational use, built with dynamic JavaScript interactivity
-
-📡 **AI-Driven Intrusion Detection for 5G Networks** – Machine learning system using Transfer Learning & Reinforcement Learning to detect network intrusions in real time
-
-## 📚 Currently Exploring
-
-- Advanced system design and software architecture patterns
-- Cloud deployment (AWS / GCP) and infrastructure as code
-- AI/ML integration in production web applications
-- Agile & Scrum methodologies for team-based development
+## 🔭 Featured Projects  
+Coming soon!
 
 ## 🤝 Let's Collaborate
 
